@@ -1,0 +1,2 @@
+# fittslaw
+HCI assignment
